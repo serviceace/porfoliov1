@@ -1,2 +1,2 @@
-# porfoliov1
-Personal Porfolio - Version 1
+# porfolio
+Personal Porfolio
